@@ -1,1 +1,1 @@
-# weather-tg-bot
+# Simple telegram weather bot
